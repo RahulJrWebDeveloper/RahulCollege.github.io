@@ -1,0 +1,18 @@
+.nav_bg{
+	background-image: linear-gradient(orange,white,green);
+}
+.para_just{
+	text-align: justify;
+}
+.bg{
+	background-color: grey;
+	height: 400px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.bg>h1{
+	
+	color: white;
+	font-size: 45px;
+}
